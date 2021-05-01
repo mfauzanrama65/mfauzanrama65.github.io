@@ -1,0 +1,20 @@
+h2 {
+	background-color: lightgray;
+	color:dodgerblue;
+	text-align: center;
+}
+h1 {border: 2px solid dodgerblue;
+	text-align: center;
+}
+body { background-image: 
+	url("backgroud.jpg");
+}
+table{
+	font-family: 'Antonio', sans-serif;
+}
+p{
+	font-family: 'raleway', sans-serif;
+}
+td {
+	text-align: center;
+}
